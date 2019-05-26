@@ -1,0 +1,54 @@
+.bottom-container {
+  align-items: center;
+
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  height: 10vh;
+  margin: auto;
+  background: rgba(89, 61, 187, 0.521);
+  margin-top: 10px;
+  box-shadow: 6px 8px 8px 7px rgba(24, 24, 44, 0.208);
+  transition: box-shadow 1s;
+}
+.bottom-container:hover {
+  box-shadow: 10px 6px 8px 5px rgba(24, 24, 44, 0.308);
+  transition: box-shadow 1s;
+}
+
+.overall-point {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  font-size: 26px;
+  margin-bottom: 5px;
+  color: rgb(217, 230, 241);
+  font-weight: bold;
+}
+
+.points-o {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 50%;
+  float: left;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(109, 0, 0);
+}
+
+.num-o {
+  display: flex;
+  width: 50px;
+  font-size: 20px;
+  border-radius: 8px;
+  margin-left: 7px;
+  background: rgba(255, 255, 0, 0.714);
+  padding: 3px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}

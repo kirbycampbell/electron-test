@@ -1,0 +1,14 @@
+.outer-difficulty-container {
+  margin: auto;
+  width: 60%;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 3vh;
+  background: rgba(255, 255, 0, 0.185);
+  margin-bottom: 1%;
+}
+.radio {
+  margin: 0px 20px 0px 20px;
+}
